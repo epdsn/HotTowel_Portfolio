@@ -1,0 +1,6 @@
+D:\Git Repos\HotTowel_Portfolio\HotTowelPortfolio\HotTowelPortfolio\bin\HotTowelPortfolio.dll.config
+D:\Git Repos\HotTowel_Portfolio\HotTowelPortfolio\HotTowelPortfolio\bin\HotTowelPortfolio.dll
+D:\Git Repos\HotTowel_Portfolio\HotTowelPortfolio\HotTowelPortfolio\bin\HotTowelPortfolio.pdb
+D:\Git Repos\HotTowel_Portfolio\HotTowelPortfolio\HotTowelPortfolio\obj\Debug\HotTowelPortfolio.csprojResolveAssemblyReference.cache
+D:\Git Repos\HotTowel_Portfolio\HotTowelPortfolio\HotTowelPortfolio\obj\Debug\HotTowelPortfolio.dll
+D:\Git Repos\HotTowel_Portfolio\HotTowelPortfolio\HotTowelPortfolio\obj\Debug\HotTowelPortfolio.pdb
